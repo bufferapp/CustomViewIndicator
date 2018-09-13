@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomViewPageIndicator">
+        <attr name="defaultItem" format="integer" />
+        <attr name="itemRightMargin" format="dimension" />
+        <attr name="itemleftMargin" format="dimension" />
+    </declare-styleable>
+
+</resources>
