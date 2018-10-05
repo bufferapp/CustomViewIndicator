@@ -1,5 +1,5 @@
 # Custom View Indicator
-An Android ViewPager indicator that allows you to provide custom views for display.
+An Android ViewPager indicator that allows you to provide custom views for display. We used this during a new feature we built, figured it might be useful for someone else along the line!
 
 <p align="center">
     <img src ="demo.gif" />
