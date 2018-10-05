@@ -2,7 +2,7 @@
 An Android ViewPager indicator that allows you to provide custom views for display.
 
 <p align="center">
-![Custom View Indicator](demo.gif)
+    <img src ="demo.gif" />
 </p>
 
 ## Usage
